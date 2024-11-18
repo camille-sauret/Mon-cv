@@ -1,0 +1,25 @@
+h1 {
+    color: red;
+}
+
+.nomentreprise {
+    color: brown;
+}
+.titre {
+    color:blue
+}
+.nomentreprise {
+    font-style:italic
+}
+body {
+    text-align: center;
+}
+.emploi {
+    font-weight: bold
+}
+body {
+    background-repeat: no-repeat;
+    background: url(images/image4.jpg) center ;
+    background-size: cover;
+    
+}
